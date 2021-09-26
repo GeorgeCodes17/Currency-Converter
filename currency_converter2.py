@@ -102,5 +102,5 @@ btn_show_codes = Button(root, text='Show Currency Codes',
                         command=show_codes, borderwidth=8)
 btn_show_codes.place(x=266, y=425)
 
-root.mainloop()
 calculate()
+root.mainloop()
